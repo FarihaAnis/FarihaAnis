@@ -3,7 +3,7 @@
 This is a repository of my Data Science projects using mostly Python and SQL.
 
 ### 📫 Connect with me:
-<a href="mailto:fariha_anis1901@yahoo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:anis1901@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/farihaanis/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <div>
